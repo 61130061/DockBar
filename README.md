@@ -9,6 +9,10 @@ This app is very useful for people who hides their macos dock and doesn't want t
 </p>
 
 
+## Installation
+You can download the lastest dmg from [Release Page](https://github.com/61130061/DockBar/releases)
+
+
 ## Usage
 1. Open DockBar app
 2. Look at your status bar! The message icon will turn green when you have unread messages.
